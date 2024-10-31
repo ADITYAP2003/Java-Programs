@@ -1,2 +1,2 @@
-# Java-Programs1
-This is the first commit
+# Java-Programs
+This Repository includes java related programs including strings, arrays, data structure, inheritance,classes, polymorphism, etc...
